@@ -109,6 +109,6 @@ class TrainerController extends Controller
      */
     public function destroy($id)
     {
-        //
+        //this is a comment
     }
 }
